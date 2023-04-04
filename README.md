@@ -1,2 +1,2 @@
 # liber-backend
-This repository contains the various microservices which cumulatively provide the backend for the liber application. 
+Liber is the patron of the Plebius in Roman mythology. Under his auspices the common Romans, wined, dined and enjoyed. The project named after him creates a group based chat application, where users can create groups, chat in them and post updates about their life in feeds. This repository contains the various microservices which cumulatively provide the backend for the liber application.
